@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a191e,100:ffbb1c&height=220&section=header&text=Hello,%20I'm%20%5BYourName%5D&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20FiveM%20%26%20Web&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a191e,100:ffbb1c&height=220&section=header&text=Hello,%20I'm%20%5BYourName%5D&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%%20%26%20Web&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- YAZAN EFEKTİ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFBB1C&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;FiveM+%26+Roleplay+Systems+%F0%9F%8E%AE;PHP+%7C+MySQL+%7C+JavaScript+%7C+Lua;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFBB1C&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%92%BB;PHP+%7C+MySQL+%7C+JavaScript+%7C+Lua;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- SOSYAL / İLETİŞİM -->
