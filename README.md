@@ -169,23 +169,7 @@ const aboutMe = {
   <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white" />
 </p>
 
----
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LykeTheBest/LykeTheBest/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-
-</div>
-
-> ⚙️ To activate this, follow the [snake repo setup](https://github.com/Platane/snk).
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       QUOTE                                -->
